@@ -1,4 +1,4 @@
-public class bodyMassIndex {
+public class Main {
     public static void main(String[] args) {
         BmiService service = new BmiService();
         int mass = 78;
